@@ -1,7 +1,9 @@
 # abstract-cms
 Abstract CMS
 
-Russian / Русский:
+Конечно, вот дополненная информация на всех четырех языках:
+
+### Russian / Русский:
 Abstract CMS - это легкая в использовании система управления контентом (CMS), разработанная на PHP.
 
 Требования:
@@ -13,7 +15,9 @@ MySQL или другая поддерживаемая база данных.
 
 Версия CMS 0.0.0.0.1
 
-Serbian / Српски:
+Это мой пет проект.
+
+### Serbian / Српски:
 Абстрактна CMS је лака за коришћење систем за управљање садржајем (CMS), развијен у PHP-у.
 
 Захтеви:
@@ -25,7 +29,9 @@ MySQL или друга подржана база података.
 
 Верзија CMS 0.0.0.0.1
 
-English / Английски:
+Ово је мој пет пројекат.
+
+### English / Английски:
 Abstract CMS is an easy-to-use content management system (CMS) developed in PHP.
 
 Requirements:
@@ -37,7 +43,9 @@ This project is licensed under the MIT License.
 
 CMS Version 0.0.0.0.1
 
-Italian / Итальянский:
+This is my pet project.
+
+### Italian / Итальянский:
 Abstract CMS è un sistema di gestione dei contenuti (CMS) facile da usare, sviluppato in PHP.
 
 Requisiti:
@@ -48,3 +56,5 @@ Licenza:
 Questo progetto è distribuito con licenza MIT.
 
 Versione CMS 0.0.0.0.1
+
+Questo è il mio progetto personale.
